@@ -15,7 +15,13 @@ button.addEventListener('click', () => {
     paragraph.style.color = 'red'
     return
   }
- 
+
+  if(cpf.value === '000.000.000-00' || cpf.value === '111.111.111-11' || cpf.value === '222.222.222-22' || cpf.value === '333.333.333-33' || cpf.value === '444.444.444-44' || cpf.value === '555.555.555-55' || cpf.value === '666.666.666-66' || cpf.value === '777.777.777-77' || cpf.value === '888.888.888-88' || cpf.value === '999.999.999-99'){
+    paragraph.innerHTML = 'CPF inválido'
+    paragraph.style.color = 'red'
+    return
+  }
+
   // Format CPF
   if (cpf.value.length != 14) {
 
