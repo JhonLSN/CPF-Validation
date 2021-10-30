@@ -15,7 +15,7 @@ button.addEventListener('click', () => {
     paragraph.style.color = 'red'
     return
   }
-
+ 
   // Format CPF
   if (cpf.value.length != 14) {
 
