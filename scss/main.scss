@@ -55,7 +55,6 @@
             &__paragraph {
                 font-family: sans-serif;
                 font-size: 0.8rem;
-                color: red;
                 margin-bottom: 10px;
                 transition: all ease .6s;
             }
@@ -76,6 +75,24 @@
                     background-color: #757386;
                     transition: all ease 0.6s;
                 }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .main {
+    
+        &__wrapper {
+            flex-direction: column;
+
+            &__svg {
+                background-position-y: center;
+                width: 100%;
+            }
+    
+            &__validation {
+                width: 100%;
             }
         }
     }

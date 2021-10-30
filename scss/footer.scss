@@ -1,0 +1,15 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #0e0d18;
+    font-family: system-ui;
+    color: white;
+
+    &__wrapper{
+        &__paragraph{
+            padding: 30px 0;
+        }
+    }
+}
