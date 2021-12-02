@@ -8,7 +8,7 @@
 <p>
 
 <h1 align="center" display="flex">
-  <img src="https://user-images.githubusercontent.com/80855598/143785292-0aca0151-3140-4200-a8a0-316f5968b4ec.png" width="80%" alt="Borderless" title="Borderless">
+  <img src="https://user-images.githubusercontent.com/80855598/144461973-8217f069-9078-401f-b5bf-cf171382c011.png" width="80%" alt="Validação de CPF" title="Validação de CPF">
 </h1>
 
 
