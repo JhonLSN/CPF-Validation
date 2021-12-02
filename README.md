@@ -18,13 +18,8 @@ A aplicação é uma plataforma que faz a validação de CPF.
 Ela foi criada do zero, além dos códigos que foram feitos por mim.
 O projeto foi criado com o intuito de facilitar na verificação informando se o CPF é válido ou não.
 
-Nela contêm os recursos de: 
-- Bate Papo (remover e adicionar um novo usuário).
-- Efetuar login.
-- Modo escuro. 
-- Visualização de moradias conforme o mecanismo de busca. 
-- Visualização de pontos de referências através do mapa.
-- Visualização de perfil nas configurações.
+Nela contêm o recurso de: 
+- Validar CPF.
 
 ## :hammer: Tecnologias
 Este projeto foi feito com as seguintes tecnologias:
