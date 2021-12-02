@@ -12,11 +12,11 @@
 </h1>
 
 ## :book: Sobre
-Este repositório contêm a aplicação Borderless.
+Este repositório contêm a aplicação de Validação de CPF.
 
-A aplicação Borderless é uma plataforma que conecta usuários de todo o mundo.
+A aplicação é uma plataforma que faz a validação de CPF.
 Ela foi criada do zero, além dos códigos que foram feitos por mim.
-O projeto foi criado com o intuito de facilitar a iteração do viajante com o nativo.
+O projeto foi criado com o intuito de facilitar na verificação informando se o CPF é válido ou não.
 
 Nela contêm os recursos de: 
 - Bate Papo (remover e adicionar um novo usuário).
