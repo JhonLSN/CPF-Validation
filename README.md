@@ -27,8 +27,6 @@ Este projeto foi feito com as seguintes tecnologias:
 - CSS3
 - JavaScript
 - SASS
-- API ViaCep
-- API Google Maps
 
 <p align="center">
   <a href="https://jhonlsn-github.netlify.app/home.html" target="_blank">
