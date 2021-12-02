@@ -29,11 +29,8 @@ Este projeto foi feito com as seguintes tecnologias:
 - SASS
 
 <p align="center">
-  <a href="https://jhonlsn-github.netlify.app/home.html" target="_blank">
-    <img src="https://res.cloudinary.com/lukemorales/image/upload/v1599785319/readme_logos/demo_on_netlify_umjmch.png" alt="Demo on Netlify" title="Demo on Netlify">
-  </a>
+  
 <p/>
 
-<p align="center">Login: BorderlessAdmin<br>Senha: admin</p>
 
 
